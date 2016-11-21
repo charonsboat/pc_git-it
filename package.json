@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "git-it",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "David R. Myers II <davidrmyersii@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "git-it": "^1.6.9"
+  }
 }
